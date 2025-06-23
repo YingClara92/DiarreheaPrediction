@@ -1,6 +1,6 @@
 # DiarreheaPrediction
 
-This is the project for individualised treatment based on prediction model
+This is the project for individualised treatment based on prediction model. 
 
 SplitNew.py is the function used for split data into training and independent test
 
